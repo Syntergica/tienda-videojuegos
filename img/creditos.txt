@@ -1,0 +1,110 @@
+CREDITOS DE LAS FOTOS (Wikimedia Commons, licencias libres)
+Las ilustraciones .svg de entrega son dibujos propios de este proyecto.
+
+switch.jpg
+  Archivo: Nintendo-Switch-Console-Docked-wJoyConRB.jpg
+  Autor: Evan-Amos
+  Licencia: Public domain
+  Fuente: https://commons.wikimedia.org/wiki/File:Nintendo-Switch-Console-Docked-wJoyConRB.jpg
+
+xbox.jpg
+  Archivo: Xbox Series X 2.jpg
+  Autor: Der. Bellemer
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Xbox_Series_X_2.jpg
+
+ps3.jpg
+  Archivo: Sony-PlayStation-3-2001A-wController-L.jpg
+  Autor: Evan-Amos
+  Licencia: Public domain
+  Fuente: https://commons.wikimedia.org/wiki/File:Sony-PlayStation-3-2001A-wController-L.jpg
+
+xbox360.jpg
+  Archivo: Xbox-360-Pro-wController.jpg
+  Autor: Evan-Amos
+  Licencia: Public domain
+  Fuente: https://commons.wikimedia.org/wiki/File:Xbox-360-Pro-wController.jpg
+
+snes.jpg
+  Archivo: Nintendo-Super-NES-Console-101-FL.jpg
+  Autor: Evan-Amos
+  Licencia: Public domain
+  Fuente: https://commons.wikimedia.org/wiki/File:Nintendo-Super-NES-Console-101-FL.jpg
+
+gameboy.jpg
+  Archivo: Game-Boy-Original.jpg
+  Autor: Evan-Amos
+  Licencia: Public domain
+  Fuente: https://commons.wikimedia.org/wiki/File:Game-Boy-Original.jpg
+
+steamdeck.jpg
+  Archivo: Minetest on Steam Deck device - FOSDEM 2024.jpg
+  Autor: Zughy
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Minetest_on_Steam_Deck_device_-_FOSDEM_2024.jpg
+
+quest.jpg
+  Archivo: Visitor using a Meta Quest 3 VR headset at IPP Greifswald 2025.jpg
+  Autor: Siarhei Besarab
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Visitor_using_a_Meta_Quest_3_VR_headset_at_IPP_Greifswald_2025.jpg
+
+dualsense.jpg
+  Archivo: DualSense Controller Chroma Pearl.jpg
+  Autor: Sonson2
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:DualSense_Controller_Chroma_Pearl.jpg
+
+mouse.jpg
+  Archivo: 2023 Mysz komputerowa Logitech G903 Lightspeed.jpg
+  Autor: Jacek Halicki
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:2023_Mysz_komputerowa_Logitech_G903_Lightspeed.jpg
+
+arcade.jpg
+  Archivo: Marble Madness arcade cabinet.jpg
+  Autor: Halcyanide
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Marble_Madness_arcade_cabinet.jpg
+
+setup.jpg
+  Archivo: Gaming PC-Setup - Astaroth- The Completed System.jpg
+  Autor: Brian Wong
+  Licencia: CC BY-SA 2.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Gaming_PC-Setup_-_Astaroth-_The_Completed_System.jpg
+
+esports.jpg
+  Archivo: Legends are born during esports tournament (4496047).jpg
+  Autor: U.S. Air Force photo by Airman William Tracy
+  Licencia: Public domain
+  Fuente: https://commons.wikimedia.org/wiki/File:Legends_are_born_during_esports_tournament_(4496047).jpg
+
+teclado.jpg
+  Archivo: Mechanical Keyboard.jpg
+  Autor: SolarMainframe
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Mechanical_Keyboard.jpg
+
+retro.jpg
+  Archivo: Collection Charles Cros. Consoles de jeux vidéo (média - multimédias). Consoles de jeux vidéo Nintendo - Game Boy Micro. Console de jeux vidéo Nintendo - Game Boy micro, n° de série MEH10212347 - btv1b550099201 (01 of 94).jpg
+  Autor: Nintendo co.. Concepteur
+  Licencia: Public domain
+  Fuente: https://commons.wikimedia.org/wiki/File:Collection_Charles_Cros._Consoles_de_jeux_vid%C3%A9o_(m%C3%A9dia_-_multim%C3%A9dias)._Consoles_de_jeux_vid%C3%A9o_Nintendo_-_Game_Boy_Micro._Console_de_jeux_vid%C3%A9o_Nintendo_-_Game_Boy_micro,_n%C2%B0_de_s%C3%A9rie_MEH10212347_-_btv1b550099201_(01_of_94).jpg
+
+logo.jpg
+  Archivo: Atari-2600-Wood-4Sw-Set.jpg
+  Autor: Evan-Amos
+  Licencia: Public domain
+  Fuente: https://commons.wikimedia.org/wiki/File:Atari-2600-Wood-4Sw-Set.jpg
+
+audifonos.jpg
+  Archivo: Mew2King at Frostbite 2020 (cropped).jpg
+  Autor: Matt Schmucker (@mtschmucker)
+  Licencia: CC BY-SA 4.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Mew2King_at_Frostbite_2020_(cropped).jpg
+
+icono.png (icono de la pestana)
+  Archivo: Emoji u1f3ae.svg
+  Autor: Google
+  Licencia: Apache License 2.0
+  Fuente: https://commons.wikimedia.org/wiki/File:Emoji_u1f3ae.svg
